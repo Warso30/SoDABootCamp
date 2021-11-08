@@ -1,0 +1,22 @@
+{
+  "name": "sodabootcamp",
+  "version": "1.0.0",
+  "description": "SoDA BootCamp",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Warso30/SoDABootCamp.git"
+  },
+  "author": "ZW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Warso30/SoDABootCamp/issues"
+  },
+  "homepage": "https://github.com/Warso30/SoDABootCamp#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
